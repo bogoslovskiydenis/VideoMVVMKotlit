@@ -3,7 +3,7 @@ package com.example.videomvvmkotlit.api
 import com.example.videomvvmkotlit.vo.MovieDetails
 import retrofit2.http.GET
 import retrofit2.http.Path
-import rx.Single
+import io.reactivex.Single
 
 interface MovieDbInterface {
     /**BaseURl -> Retrofit
