@@ -1,4 +1,4 @@
-package com.example.videomvvmkotlit.repository
+package com.example.videomvvmkotlit.network
 
 
 enum class Status{
